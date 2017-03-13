@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FileIO</string>
+    <string name="savetext">FileIO</string>
+    <string name="loadtext">FileIO</string>
+</resources>
